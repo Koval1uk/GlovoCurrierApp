@@ -6,8 +6,8 @@ import java.util.Objects;
 public class Order {
 	private String id;
 	private String description;
-	private Boolean food;
-	private Boolean vip;
+	private boolean food;
+	private boolean vip;
 	private Location pickup;
 	private Location delivery;
 

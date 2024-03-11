@@ -4,7 +4,7 @@ import java.util.Objects;
 public class Courier {
 	private String id;
 	private String name;
-	private Boolean box;
+	private boolean box;
 	private Vehicle vehicle;
 	private Location location;
 
